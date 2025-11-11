@@ -22,8 +22,8 @@ function preload(){
 
 function setup() {
   page = 0;
-  canvasWidth = 1920;
-  canvasHeight = 1080;
+  canvasWidth = width;
+  canvasHeight = height;
   createCanvas(canvasWidth, canvasHeight);
   background(0);
   questionSelect = 0;
