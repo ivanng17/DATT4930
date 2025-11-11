@@ -76,7 +76,7 @@ function titleScreen(){
   textSize(canvasWidth/20);
   text("By: Ivan Ng", canvasWidth/2, canvasHeight/2 + canvasHeight/4);
   textSize(canvasWidth/60);
-  text("A net.art inspired data visualization of AI usage every 2 years over the past 10 years.", canvasWidth/2, canvasHeight/2 + canvasHeight/16);
+  text("A net.art inspired data visualization of AI usage every 2 years from 2020-2030.", canvasWidth/2, canvasHeight/2 + canvasHeight/16);
   textSize(canvasWidth/40);
   text("Use the left and right arrow keys to navigate", canvasWidth/2, canvasHeight/2 + canvasHeight/4 + canvasHeight/16);
   textSize(canvasWidth/120);
