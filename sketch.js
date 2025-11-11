@@ -80,7 +80,7 @@ function titleScreen(){
   textSize(canvasWidth/40);
   text("Use the left and right arrow keys to navigate", canvasWidth/2, canvasHeight/2 + canvasHeight/4 + canvasHeight/16);
   textSize(canvasWidth/120);
-  text("Credits: \n Outline of world map from: https://www.outline-world-map.com/ \n AI usage by population data obtained from: https://resourcera.com/data/artificial-intelligence/ai-statistics \n Background questions were inspired by the reasons for using AI from: https://datareportal.com/reports/digital-2026-one-billion-people-using-ai \n Man silhouette: https://openclipart.org/detail/333205/simple-man-silhouette \n Robot silhouette: https://openclipart.org/detail/323392/robot", canvasWidth/2, canvasHeight/2 + canvasHeight/4 + canvasHeight/8);
+  text("Credits: \n Outline of world map from Outline World Map: https://www.outline-world-map.com/ \n AI usage by population data obtained from Siddhi Naik's AI statistics at Resourcera: https://resourcera.com/data/artificial-intelligence/ai-statistics \n Background questions were inspired by the reasons for using AI from Digital 2026 by Simon Kemp at Datareportal: https://datareportal.com/reports/digital-2026-one-billion-people-using-ai \n Man silhouette by kuba at Openclipart.org: https://openclipart.org/detail/333205/simple-man-silhouette \n Robot silhouette by NicholasJudy567 at Openclipart.org: https://openclipart.org/detail/323392/robot", canvasWidth/2, canvasHeight/2 + canvasHeight/4 + canvasHeight/8);
 }
 
 function map1(){
